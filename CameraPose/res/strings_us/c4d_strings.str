@@ -1,0 +1,4 @@
+STRINGTABLE
+{
+	IDS_PRIMITIVETOOL			"Camera Pose tool";
+}
